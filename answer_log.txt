@@ -1,0 +1,2 @@
+------------- Detection of Safe Search Space of Robot ------------------
+Total safe area for the robot after training is:  592597
